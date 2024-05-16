@@ -1,0 +1,2 @@
+# Gestão de Estoque com Spring Boot
+Desenvolvido durante aulas de Linguagem de Programação, este projeto em Java/Spring Boot oferece uma solução para gestão de estoque e dados mestre. Utiliza Spring Boot, Spring MVC e Spring Data JPA para o backend, com Thymeleaf para a camada de visualização. O MySQL é o banco de dados escolhido, com Hibernate para mapeamento objeto-relacional. Na parte gráfica, foram empregados HTML e Bootstrap para uma interface moderna e responsiva
